@@ -1,0 +1,9 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	display:grid;
+}
+.menu {
+	grid-row: 2 , 2;
+}
+/* Quando a tela for menor que 600px */
